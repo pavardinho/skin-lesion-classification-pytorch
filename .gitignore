@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+data/
+melanoma-cancer-dataset/
+runs/
+*.pt
+*.pth
+*.log
+.DS_Store
